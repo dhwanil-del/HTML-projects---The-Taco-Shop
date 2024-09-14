@@ -1,0 +1,18 @@
+html {
+  font: message-box;
+}
+ a {
+   color: green;
+ }
+ a:visited {
+   color: orange;
+ }
+ a:hover, a:active {
+   color: #eee;
+ }
+ table, tr, th, td, caption {
+  border: 1px solid #eee;
+  font-family: 'Courier New', Courier, monospace;
+  border-collapse: collapse;
+  padding: 0.5rem;
+ }
